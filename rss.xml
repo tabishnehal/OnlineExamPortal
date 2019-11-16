@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'>
+<channel> 
+
+<title>Online Exam Portal</title>
+<link>http://localhost/OnlineExamPortal/index.php</link>
+<description>About Webpage</description>
+<language>en-us</language>
+
+<item>
+  <title>Article Title</title>
+  <link>http://localhost/OnlineExamPortal/index.php</link>
+  <description>Article Content</description>
+</item>
+
+</channel>
+</rss>
